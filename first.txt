@@ -6,4 +6,4 @@ LTI
 sector-24
 Tomorrow is Sunday
 Laptop name is HP
-Mobile is Samsing
+Mobile is Samsung
